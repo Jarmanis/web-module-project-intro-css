@@ -1,0 +1,82 @@
+.plan {
+    background-color: #FF764E;
+   
+    
+}
+
+.learn {
+    background-color: #5ED3EB;
+    
+}
+
+.involved {
+    background-color: #FFCD69;
+}
+
+.guide {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 50px;
+}
+
+* {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+body {
+    background-color: white;
+}
+
+footer {
+    background-color: #F9E7DC;
+}
+
+h2 {
+    border-radius: 100px;
+    width: 18%;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    
+}
+
+.first-image {
+    border-radius: 80%;
+    width: 15%;
+    display: inline-flexbox;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;    
+    
+    
+}
+
+h4 {
+    font-size: 20px;
+    
+}
+
+.subtitle {
+    margin-bottom: 100px;
+}
+
+.fireimage {
+    width: 10%;
+}
+
+.truckimage {
+    width: 10%;
+}
+
+.second-image {
+    height: 400px;
+    width: auto;
+}
+
+#para1 {
+    background-color: #DDB9A3;
+}
+
+h2:hover {
+    background-color: green;
+}
